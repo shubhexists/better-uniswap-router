@@ -1,4 +1,4 @@
-# PoolRouter Contract
+# Uniswap Router V3 Contract
 
 A Uniswap V3 pool router implementation that provides direct pool swapping functionality with configurable fee structure. This contract bypasses the standard Uniswap V3 Router and interacts directly with liquidity pools for gas optimization.
 
